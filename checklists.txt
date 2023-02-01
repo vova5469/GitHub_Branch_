@@ -1,0 +1,6 @@
+ID-1
+Website: Currency.com
+[A[A[B[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C [Menu section[D[D[D[D[D[D[D[D[D[D[D[[C"Menu section [Markets overiew]"
+Title: Images display
+ER: 1.Image are displayed on the page
+[D[D[D2.Imagesbare[D[D[[C[C[C[C diplayed in the respective places
