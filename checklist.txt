@@ -1,0 +1,6 @@
+ID-1
+Website:Currency.com "Menu section [Markets overiew]"
+Title: Images display
+ER: 1.Image are displayed on the page
+    2.Images are displayed in the respective places
+
